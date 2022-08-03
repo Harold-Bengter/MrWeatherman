@@ -1,0 +1,17 @@
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\bin\Debug\net6.0\WeatherMapAPI.exe
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\bin\Debug\net6.0\WeatherMapAPI.deps.json
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\bin\Debug\net6.0\WeatherMapAPI.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\bin\Debug\net6.0\WeatherMapAPI.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\bin\Debug\net6.0\WeatherMapAPI.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\WeatherMapAPI.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\WeatherMapAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\WeatherMapAPI.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\WeatherMapAPI.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\WeatherMapAPI.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\WeatherMapAPI.csproj.CopyComplete
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\WeatherMapAPI.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\refint\WeatherMapAPI.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\WeatherMapAPI.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\WeatherMapAPI.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\WeatherMapAPI\WeatherMapAPI\obj\Debug\net6.0\ref\WeatherMapAPI.dll
